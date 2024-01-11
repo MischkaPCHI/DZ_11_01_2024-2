@@ -12,7 +12,7 @@ public class Main {
         student.add(new Student("Nikolay",7,true));
         student.add(new Student("Ann",1,false));
         student.add(new Student("Nicole",19,false));
-        student.add(new Student("Maria",11,false));
+        student.add(new Student("Maria",11,true));
         student.add(new Student("Raf",14,true));
 
         PrintSelection.print();
